@@ -27,7 +27,7 @@ const FeatureFocus: React.FC = () => {
     <section id="feature-focus" className="py-20">
       <div className="text-center mb-24">
         <h2 className="text-4xl md:text-6xl font-medium tight-tracking mb-8">Post anywhere. <br />From nowhere.</h2>
-        <p className="text-xl text-gray-500 max-w-2xl mx-auto">Your content deserves to be everywhere. Paper makes that distance zero.</p>
+        <p className="text-xl text-gray-500 max-w-2xl mx-auto">Your content deserves to be everywhere. Vellum makes that distance zero.</p>
       </div>
 
       <div className="relative h-[400px] flex items-center justify-center">

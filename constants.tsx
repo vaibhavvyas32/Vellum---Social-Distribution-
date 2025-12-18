@@ -5,7 +5,7 @@ import { Testimonial, Feature, PricingTier } from './types';
 export const TESTIMONIALS: Testimonial[] = [
   {
     id: '1',
-    quote: "Paper changed how our team thinks about distribution. It's the cleanest tool we've ever used.",
+    quote: "Vellum changed how our team thinks about distribution. It's the cleanest tool we've ever used.",
     author: "Sarah Jenkins, Design Lead at Flow",
     avatar: "https://picsum.photos/seed/sarah/100/100"
   },

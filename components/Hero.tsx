@@ -20,7 +20,7 @@ const Hero: React.FC = () => {
             Social distribution, <br /><span className="text-gray-400">flattened.</span>
           </h1>
           <p className="text-lg md:text-xl text-gray-500 max-w-2xl mx-auto mb-12 leading-relaxed">
-            One interface. Every platform. Paper is the minimalist workspace for modern creators to schedule, analyze, and scale.
+            One interface. Every platform. Vellum is the minimalist workspace for modern creators to schedule, analyze, and scale.
           </p>
           
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">

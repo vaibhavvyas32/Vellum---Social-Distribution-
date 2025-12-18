@@ -12,10 +12,10 @@ const Footer: React.FC = () => {
                 <div className="w-4 h-[2px] bg-black rotate-[-45deg] translate-y-[-1px]" />
                 <div className="w-4 h-[2px] bg-black rotate-[45deg] translate-y-[1px]" />
               </div>
-              <span className="text-xl font-semibold tight-tracking">Paper</span>
+              <span className="text-xl font-semibold tight-tracking">Vellum</span>
             </div>
             <p className="text-gray-400 max-w-xs text-sm leading-relaxed">
-              Paper is the minimalist workspace for modern creators to schedule, analyze, and scale their social distribution.
+              Vellum is the minimalist workspace for modern creators to schedule, analyze, and scale their social distribution.
             </p>
           </div>
           
@@ -51,7 +51,7 @@ const Footer: React.FC = () => {
 
         <div className="flex flex-col md:flex-row items-center justify-between border-t border-gray-800 pt-12">
           <p className="text-xs text-gray-500 mb-4 md:mb-0">
-            © 2024 Paper Technologies Inc. All rights reserved.
+            Made By Gen
           </p>
           
           <div className="flex items-center gap-2 px-3 py-1.5 bg-gray-900 rounded-full border border-gray-800">

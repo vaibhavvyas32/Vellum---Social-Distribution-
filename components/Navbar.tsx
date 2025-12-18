@@ -22,7 +22,7 @@ const Navbar: React.FC = () => {
             <div className="w-4 h-[2px] bg-white rotate-[-45deg] translate-y-[-1px]" />
             <div className="w-4 h-[2px] bg-white rotate-[45deg] translate-y-[1px]" />
           </div>
-          <span className="text-xl font-semibold tight-tracking">Paper</span>
+          <span className="text-xl font-semibold tight-tracking">Vellum</span>
         </div>
 
         <div className="hidden md:flex items-center gap-10">
