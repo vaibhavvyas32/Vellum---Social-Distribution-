@@ -1,9 +1,5 @@
 <img width="1367" height="713" alt="image" src="https://github.com/user-attachments/assets/54b06154-7bec-4d1b-afa6-8a6294ff1fd0" />
 
-This README is designed to match the high-end, minimalist aesthetic of the **Vellum** brand. It uses structured hierarchy, clean separators, and technical depth to reflect the "Attio-inspired" design language of your project.
-
----
-
 # ⚪️ Vellum
 
 **The next-generation social distribution engine.** *One interface. 12 platforms. Zero friction.*
